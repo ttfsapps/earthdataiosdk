@@ -1,0 +1,4 @@
+earthdataiosdk
+==============
+
+EarthDataIO Windows SDK
